@@ -35,3 +35,17 @@ cmake .
 make 
 ./pongGame
 ```
+<br/>
+
+## On Windows : 
+
+* Open `pong.sln` file
+* Follow [lazy foo](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php) guide to set up SDL2 on Visual Studio.
+* Press `F5` to build and run the program.
+
+<br/>
+
+# How to play  
+  WASD   -> player one 
+  <br/>
+  arrows -> player two 
