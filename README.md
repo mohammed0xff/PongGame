@@ -3,7 +3,9 @@ Pong Game Made With C++ and SDL2
 <br/>
 
 # Demo Video
-https://user-images.githubusercontent.com/81110384/187816631-ba93abc7-d148-43e4-90ca-bbe54103344b.mp4
+https://user-images.githubusercontent.com/81110384/187818694-e88693d1-d94d-4961-8cf4-f864100eb880.mp4
+
+
 <br/>
 
 # how to run
